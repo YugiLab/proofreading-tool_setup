@@ -1,6 +1,6 @@
 # proofreading-tool_setup
-文章校正ツール (proofreading-tool) の初心者向け導入方法と設定ファイル。  
-[開発元サイト](https://github.com/gecko655/proofreading-tool?tab=readme-ov-file)を読んでインストールできる人は読まなくても大丈夫です。
+文章校正ツール (proofreading-tool) の導入方法と設定ファイル。  
+[開発元サイト](https://github.com/gecko655/proofreading-tool?tab=readme-ov-file)の記述を元にして、初心者向けに書いた説明です。
 
 ## macOS版 インストール方法
 1. proofreading-tool の[開発元サイト](https://github.com/gecko655/proofreading-tool?tab=readme-ov-file)に行く
