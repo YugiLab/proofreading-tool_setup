@@ -1,9 +1,10 @@
 # proofreading-tool_setup
-文章校正ツール (proofreading-tool) の導入方法と設定ファイル
+文章校正ツール (proofreading-tool) の初心者向け導入方法と設定ファイル。  
+[開発元サイト](https://github.com/gecko655/proofreading-tool?tab=readme-ov-file)を読んでインストールできる人は読まなくても大丈夫です。
 
 ## macOS版 インストール方法
-1. proofreading-tool の開発元サイトに行く https://github.com/gecko655/proofreading-tool?tab=readme-ov-file
-2. Install ページに行く https://github.com/gecko655/proofreading-tool/releases
+1. proofreading-tool の[開発元サイト](https://github.com/gecko655/proofreading-tool?tab=readme-ov-file)に行く
+2. [Installページ](https://github.com/gecko655/proofreading-tool/releases)に行く 
 3. 最新バージョンの dmg ファイルをダウンロード。これを書いている時点では proofreading-tool-1.0.11.dmg が該当。
 4. dmg ファイルをダブルクリックで実行
 5. 「文章校正ツール」のアイコンを “Applications” フォルダにドラッグ＆ドロップする
